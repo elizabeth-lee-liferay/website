@@ -1,0 +1,52 @@
+h2{
+    color: rgb(121, 165, 182);
+    font-family: sans-serif;
+
+}
+
+.header img{
+    float: left;
+    width: 100px;
+    height: 100px;
+   
+}
+
+.header h2{
+    position: relative;
+    top: 18px;
+    left: 10px;
+    padding:30px;
+}
+
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+
+}
+
+li {
+    float: left;
+}
+
+li a{
+    display:block;
+    color:rgb(111, 142, 170);
+    text-align:center;
+    padding:14px 100px
+}
+
+li a:hover{
+    background-color: rgba(95, 158, 160, 0.507);
+}
+
+.background-color{
+    background-color: rgb(183, 201, 218);
+}
+
+.roundBorder{
+    border-width: 10px;
+    border-color: rgb(125, 161, 170);
+    border-radius: 50%;
+    border-style: solid;
+}
